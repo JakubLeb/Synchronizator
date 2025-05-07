@@ -1,0 +1,39 @@
+# Pliki kompilacji
+/bin/
+/out/
+/target/
+
+# Pliki IDE (Eclipse, IntelliJ)
+*.iml
+.idea/
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Logi
+*.log
+
+# Pliki tymczasowe
+*.tmp
+*.swp
+
+# Konfiguracje lokalne
+*.env
+*.local
+
+# Bazy danych tymczasowe
+*.db
+
+# Maven / Gradle
+/.mvn/
+/.gradle/
+/build/
+
+# Pliki testowe
+/test-output/
